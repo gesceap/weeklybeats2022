@@ -16,6 +16,7 @@ All nanoloop mobile song files and mp3s for songs uploaded to weeklybeats 2022
 | Week Number | Filename | Song Name | OS | BPM |
 |-|-|-|-|-|
 | 1 | Monitorserve02.nan | Monitor Serve | iOS | 160 |
+| 2 | Badchoice02.nan | Bad Choice | iOS | 95 |
 
 
 # Notes
