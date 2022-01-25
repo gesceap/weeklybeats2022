@@ -2,8 +2,6 @@
 
 All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 
-https://weeklybeats.com/gesceap/
-
 * WeeklyBeats: [https://weeklybeats.com/gesceap](https://weeklybeats.com/gesceap)
 * Youtube: [https://www.youtube.com/c/Gesceap](https://www.youtube.com/c/Gesceap)
 * Facebook: [https://www.facebook.com/gesceap/](https://www.facebook.com/gesceap/)
