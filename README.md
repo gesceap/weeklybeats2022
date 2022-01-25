@@ -18,7 +18,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 1 | Monitorserve02.nan | Monitor Serve | iOS | 160 |
 | 2 | Badchoice02.nan | Bad Choice | iOS | 95 |
 | 3 | Failurecomplete03.nan | Failure Complete | iOS | 120 |
-| 3 | 8Eighthead03.nan | 8 Eight Head | iOS | 120 |
+| 4 | 8Eighthead03.nan | 8 Eight Head | iOS | 135 |
 
 
 # Notes
