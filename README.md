@@ -22,6 +22,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 5 | Ppadnightmare03.nan | Padd Nightmare | iOS | 116 |
 | 6 | Llama12.nan | Llama12 | iOS | 112 |
 | 7 | Dontbenicetome03.nan | Don't be nice to me | iOS | 155 |
+| 8 | NivelZero02.nan | Nivel Zero | iOS | 163 |
 
 
 # Notes
