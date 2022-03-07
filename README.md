@@ -24,6 +24,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 7 | Dontbenicetome03.nan | Don't be nice to me | iOS | 155 |
 | 8 | NivelZero02.nan | Nivel Zero | iOS | 163 |
 | 9 | 1dimensional03.nan | 1dimensional | iOS | 150 |
+| 10 | Spaventatofunk02.nan | Spavento Funk | iOS | 165 |
 
 
 # Notes
