@@ -25,6 +25,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 8 | NivelZero02.nan | Nivel Zero | iOS | 163 |
 | 9 | 1dimensional03.nan | 1dimensional | iOS | 150 |
 | 10 | Spaventatofunk02.nan | Spavento Funk | iOS | 165 |
+| 11 | Mortality02.nan | Mortality | iOS | 135 |
 
 
 # Notes
