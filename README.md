@@ -27,6 +27,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 10 | Spaventatofunk02.nan | Spavento Funk | iOS | 165 |
 | 11 | Mortality02.nan | Mortality | iOS | 135 |
 | 12 | Aliveat155.nan | Alive at 155 | iOS | 155 |
+| 13 | Temptingforce01.nan | Tempting force | iOS | 118 |
 
 
 # Notes
