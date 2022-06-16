@@ -38,6 +38,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 21 | Rigtarmhh3.nan | Rigtarmhh | iOS | 105 |
 | 22 | Idea no turning.nan | Idea no turning | Android | 135 |
 | 23 | Lecbrk10042021_01.nan | Lecbrk 10042021 | iOS | 145 |
+| 24 | Lecbrk11042021_01.nan | Lecbrk 11042021 | iOS | 140 |
 
 # Notes
 
