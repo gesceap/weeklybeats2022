@@ -39,8 +39,15 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 22 | Idea no turning.nan | Idea no turning | Android | 135 |
 | 23 | Lecbrk10042021_01.nan | Lecbrk 10042021 | iOS | 145 |
 | 24 | Lecbrk11042021_01.nan | Lecbrk 11042021 | iOS | 140 |
+| 25 | Garagere01.nan | Garagere | Android | 118 |
 
 # Notes
+
+## Music
+
+Week 25 is the song file only without vocals.
+
+## Compatibility
 
 * Nanoloop iOS made songs are compatible with Nanoloop Android
 * Nanoloop Android made songs are not compatible with Nanoloop iOS
