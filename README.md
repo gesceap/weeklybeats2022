@@ -40,6 +40,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 23 | Lecbrk10042021_01.nan | Lecbrk 10042021 | iOS | 145 |
 | 24 | Lecbrk11042021_01.nan | Lecbrk 11042021 | iOS | 140 |
 | 25 | Garagere01.nan | Garagere | Android | 118 |
+| 26 | Lecbrk13042021_02.nan | Lecbrk 13042021 | iOS | 135 |
 
 # Notes
 
