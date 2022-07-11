@@ -42,6 +42,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 25 | Garagere01.nan | Garagere | Android | 118 |
 | 26 | Lecbrk13042021_02.nan | Lecbrk 13042021 | iOS | 135 |
 | 27 | 6confront03.nan | 6 confront | iOS | 118 |
+| 28 | Runawaydontlookback01.nan | Run away, don't look back | Android | 135 |
 
 # Notes
 
