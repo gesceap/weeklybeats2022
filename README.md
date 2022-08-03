@@ -45,6 +45,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 28 | Runawaydontlookback01.nan | Run away, don't look back | Android | 135 |
 | 29 | Bdmxvolver02.nan | Bdmxvolver | Android | 120 |
 | 30 | Amnient03.nan | Amnient | Android | 120 |
+| 31 | Plka02.nan | Pkla | Android | 120 |
 
 # Notes
 
