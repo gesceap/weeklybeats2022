@@ -48,6 +48,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 31 | Plka02.nan | Pkla | Android | 120 |
 | 32 | Sunriserun02.nan | Sunrise run | Android | 118 |
 | 33 | Brokenback03.nan | Broken back | Android | 145 |
+| 34 | Sicibass03.nan | Sicibass | Android | 145 |
 
 # Notes
 
