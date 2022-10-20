@@ -9,7 +9,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 * Bandcamp: [https://gesceap.bandcamp.com/](https://gesceap.bandcamp.com/)
 * Soundcloud: [https://soundcloud.com/gesceap](https://soundcloud.com/gesceap)
 * Github: [https://github.com/gesceap](https://github.com/gesceap)
-* Linktree: [https://linktr.ee/gesceap]
+* Linktree: [https://linktr.ee/gesceap](https://linktr.ee/gesceap)
 
 
 # Weeks
