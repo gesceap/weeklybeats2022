@@ -9,6 +9,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 * Bandcamp: [https://gesceap.bandcamp.com/](https://gesceap.bandcamp.com/)
 * Soundcloud: [https://soundcloud.com/gesceap](https://soundcloud.com/gesceap)
 * Github: [https://github.com/gesceap](https://github.com/gesceap)
+* Linktree: [https://linktr.ee/gesceap]
 
 
 # Weeks
@@ -56,6 +57,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 39 | Fts02.nan | Fts | Android | 145 |
 | 40 | Dimentianew02.nan | Dementia Knew | Android | 118 |
 | 41 | Androtst01.nan | Androtst | Android | 102 |
+| 42 | Theredeye02.nan | The red eye | Android | 108 |
 
 # Notes
 
