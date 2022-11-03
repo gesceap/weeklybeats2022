@@ -59,6 +59,8 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 41 | Androtst01.nan | Androtst | Android | 102 |
 | 42 | Theredeye02.nan | The red eye | Android | 108 |
 | 43 | Digodico01.nan | Digo dico | Android | 108 |
+| 44 | Sparkmass02.nan | Spark Mass | Android | 160 |
+
 
 # Notes
 
