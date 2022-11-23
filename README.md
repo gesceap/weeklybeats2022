@@ -62,6 +62,8 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 44 | Sparkmass02.nan | Spark Mass | Android | 160 |
 | 45 | Funkstabs01.nan | Funk Stabs | Android | 125 |
 | 46 | Dubiousrealization02.nan | Dubious Realization | Android | 145 |
+| 47 | Walkbare01.nan | Walk bare | Android | 160 |
+
 
 
 # Notes
