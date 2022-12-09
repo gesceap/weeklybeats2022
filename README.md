@@ -63,7 +63,8 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 45 | Funkstabs01.nan | Funk Stabs | Android | 125 |
 | 46 | Dubiousrealization02.nan | Dubious Realization | Android | 145 |
 | 47 | Walkbare01.nan | Walk bare | Android | 160 |
-
+| 48 | Prebirth02.nan | Prebirth | Android | 118 |
+| 49 | Dead eyes dub 04.nan | Dead eyes dub | Android | 130 |
 
 
 # Notes
