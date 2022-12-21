@@ -65,6 +65,8 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 47 | Walkbare01.nan | Walk bare | Android | 160 |
 | 48 | Prebirth02.nan | Prebirth | Android | 118 |
 | 49 | Dead eyes dub 04.nan | Dead eyes dub | Android | 130 |
+| 50 | Singbient02.nan | Singbient | Android | 120 |
+| 51 | Snewr03.nan | Snewr | Android | 155 |
 
 
 # Notes
