@@ -67,6 +67,7 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 49 | Dead eyes dub 04.nan | Dead eyes dub | Android | 130 |
 | 50 | Singbient02.nan | Singbient | Android | 120 |
 | 51 | Snewr03.nan | Snewr | Android | 155 |
+| 52 | Moresticky02.nan | More Sticky | Android | 118 |
 
 
 # Notes
