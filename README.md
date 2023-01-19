@@ -69,6 +69,11 @@ All nanoloop mobile song files for songs uploaded to weeklybeats 2022
 | 51 | Snewr03.nan | Snewr | Android | 155 |
 | 52 | Moresticky02.nan | More Sticky | Android | 118 |
 
+# Download 
+
+Download all the `.nan` files and `mp3`s here:
+
+https://github.com/gesceap/weeklybeats2022/archive/refs/heads/main.zip
 
 # Notes
 
